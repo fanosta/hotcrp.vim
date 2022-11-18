@@ -7,8 +7,6 @@ if exists("b:current_syntax")
   finish
 endif
 
-echom "foobar"
-
 let b:current_syntax = "hotcrp_review"
 
 " syn match hotcrpHeader '^==+==.\+'
