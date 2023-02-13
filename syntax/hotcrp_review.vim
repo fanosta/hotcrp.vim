@@ -21,5 +21,5 @@ syn region hotcrpBlock start="^==\*==" end="\n\+\(==\*==\)\@=" fold transparent
 
 hi def link hotcrpTodo Todo
 hi def link hotcrpExplanation Comment
-hi def link hotcrpH1 Label
-hi def link hotcrpH2 Label
+hi def link hotcrpH1 Title
+hi def link hotcrpH2 Title
